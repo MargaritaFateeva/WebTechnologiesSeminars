@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(190, 235, 235)
+}
+h1 {
+    color: red;
+}
+h2 {
+    color: yellow;
+}
+a {
+    color: green;
+}
+img {
+    width: 600px;
+    margin-left: 50px;
+}
+.bigtext {
+    font-size: 1.5rem;
+}
+@font-face {
+	font-family: 'Caviar Dreams';
+	src: url('../fonts/caviar_dreams.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/caviar_dreams.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/caviar_dreams.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/caviar_dreams.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/caviar_dreams.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/caviar_dreams.svg#caviar_dreams') format('svg'); /* Chrome < 4, Legacy iOS */
+}
+h3 {font-family: 'Caviar Dreams', sans-serif;}
+a:hover{color: purple}
