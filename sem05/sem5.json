@@ -1,0 +1,35 @@
+[
+    {
+      "name":"Яблоко",
+      "weight": 1000,
+      "group":"fruits",
+      "coust": 150,
+      "warehouse": 1
+    },
+    {
+      "name":"Картошка",
+      "weight": 5000,
+      "group":"vegetables",
+      "coust": 320,
+      "warehouse": 2
+    }
+    ],
+[
+  {
+    "name":"Иван",
+    "surname":"Иванов"
+    "age": 37,
+    "hobbies":["рыбалка","охота","футбол"]
+    "married": true,
+    "children": ["Mary","Nikolay"]
+  },
+  {
+    "name":"Ольга",
+    "surname":"Фролова"
+    "age": 21,
+    "hobbies":["путешествия","вышивание"]
+    "married": false,
+    "children": []
+  }
+  ]
+
